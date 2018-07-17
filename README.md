@@ -8,6 +8,7 @@ This end-to-end machine translation pipeline delivered as final project for Udac
 - TensorFlow 1.x
 - Keras 2.x
 ## Models
+Following training accuracy achieved with only 20 epochs:
 1. Simple Model: 81.45%
 2. Embedding Model: 93.47%
 3. Bidirectional RNN Model: 83.11%
